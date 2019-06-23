@@ -6,3 +6,4 @@ feature1
 >>>>>>> feature1
 creat a new branch is quick
 on ff merge
+issue-101
